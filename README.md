@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with Motivation on Programming career
 - 💬 Ask me about Programming, Games, Animes ...
 - 📫 How to reach me: gabrielcastrodias1414@gmail.com 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm 6'5 feet tall  XD
 
