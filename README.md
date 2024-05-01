@@ -6,7 +6,7 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img alt="cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/tallestgabs/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tallestgabs/tallestgabs/output/github-contribution-grid-snake.svg" />
 
   <br/>
 </div>
